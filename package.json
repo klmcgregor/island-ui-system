@@ -1,6 +1,6 @@
 {
   "name": "island-ui-system",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Design system & component library using the CSS-in-JS approach for creating React websites & React web apps. Built upon Styled System which extends the Styled Components approach. This is meant to be an opinionated starting point, not a complete system.",
   "author": "Kyle L. McGregor",
   "license": "MIT",
