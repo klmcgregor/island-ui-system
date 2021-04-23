@@ -1,6 +1,6 @@
 {
   "name": "island-ui-system",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "description": "Design system & component library using SCSS for creating React websites, React web apps, React Native apps, or React Hybrid apps. This is meant to be an opinionated starting point, not a complete system.",
   "author": "Kyle L. McGregor",
   "license": "MIT",
